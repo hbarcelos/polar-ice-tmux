@@ -1,1 +1,1 @@
-source-file ./polar-ice-tmux.dark.tmuxtheme
+tmux source-file ./polar-ice-tmux.dark.tmuxtheme
